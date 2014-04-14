@@ -1,3 +1,6 @@
 modified file
 hi, I'm adding this
 and a third line
+add fourth line staging area only
+it is a planet
+it is another planet
